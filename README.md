@@ -1,6 +1,6 @@
 ## 👋 Jose C Campos 
 
-**`Software Engineer/Student at USC`**
+**`Software Engineer/Student`**
 
 <!--
 **jose-c-campos/jose-c-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
