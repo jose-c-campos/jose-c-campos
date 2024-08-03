@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Jose C Campos 
+
+**Software Engineer - 4th year Undergraduate Student at Univeristy of Southern California**
 
 <!--
 **jose-c-campos/jose-c-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
