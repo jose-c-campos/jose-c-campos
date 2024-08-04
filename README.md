@@ -1,7 +1,5 @@
 ## 👋 Jose C Campos 
 
----
-
 **`Student/Software Engineer`**
 
 I am a senior at USC with a passion for creating digital solutions to new and unsolved problems. I am always actively learning 
