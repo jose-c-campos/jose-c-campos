@@ -33,10 +33,11 @@ my ideas in a way that non-programmers can appreciate and understand.
 ### Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" style="padding-right:10px;"/></a>
-<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40" style="padding-right:10px;"/></a>
-<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@jose-c-campos" height="50" width="50" style="padding-right:10px;"/></a>
+<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" style="margin-right:10px;"/></a>
+<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40" style="margin-right:10px;"/></a>
+<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@jose-c-campos" height="50" width="50" style="margin-right:10px;"/></a>
 </p>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-c-campos&label=Profile%20views&color=0e75b6&style=flat" alt="jose-c-campos" /> </p>
