@@ -32,15 +32,24 @@ my ideas in a way that non-programmers can appreciate and understand.
 
 ### Connect with me
 
-<a href="https://linkedin.com/in/jose-c-campos" target="blank" align="left" style="padding-right:10px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" />
-</a>
-<a href="https://instagram.com/josecampx" target="blank" align="left" style="padding-right:10px;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40"/>
-</a>
-<a href="https://medium.com/@jose-c-campos" target="blank" align="left" style="padding-right:10px;">
-<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40"/>
-</a>
+<p align="left">
+    <a href="https://linkedin.com/in/jose-c-campos" target="blank">
+        <span style="padding-right:10px;">
+            <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" />
+        </span>
+    </a>
+<a href="https://instagram.com/josecampx" target="blank">
+        <span style="padding-right:10px;">
+            <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40" />
+        </span>
+    </a>
+    <a href="https://medium.com/@jose-c-campos" target="blank">
+        <span style="padding-right:10px;">
+            <img align="center" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" />
+        </span>
+    </a>
+    
+</p>
 
 ---
 
@@ -65,6 +74,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://linkedin.com/in/jose-c-campos" target="blank" align="left" style="padding-right:10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" />
+</a>
+<a href="https://instagram.com/josecampx" target="blank" align="left" style="padding-right:10px;">
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40"/>
+</a>
+<a href="https://medium.com/@jose-c-campos" target="blank" align="left" style="padding-right:10px;">
+<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40"/>
+</a>
 -->
 
 
