@@ -42,6 +42,9 @@ my ideas in a way that non-programmers can appreciate and understand.
 <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" align="left"/>
 </a>
 
+<br/>
+<br/>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-c-campos&label=Profile%20views&color=0e75b6&style=flat" alt="jose-c-campos" /> </p>
