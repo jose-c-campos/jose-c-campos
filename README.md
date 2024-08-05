@@ -35,6 +35,26 @@ my ideas in a way that non-programmers can appreciate and understand.
 <br />
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-c-campos&show_icons=true&locale=en" alt="jose-c-campos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
+
+
+---
+
+
+- 📫 How to reach me **josecarl@usc.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="30" width="40" /></a>
+<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="30" width="40" /></a>
+<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jose-c-campos" height="30" width="40" /></a>
+</p>
+
           
 <!--
 **jose-c-campos/jose-c-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
