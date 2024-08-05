@@ -36,8 +36,8 @@ my ideas in a way that non-programmers can appreciate and understand.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-c-campos&label=Profile%20views&color=0e75b6&style=flat" alt="jose-c-campos" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
 
 
 ---
