@@ -33,13 +33,13 @@ my ideas in a way that non-programmers can appreciate and understand.
 ### Connect with me
 
 <a href="https://linkedin.com/in/jose-c-campos" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" align="center"/>
 </a>
 <a href="https://instagram.com/josecampx" target="blank">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40"/>
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40" align="center"/>
 </a>
 <a href="https://medium.com/@jose-c-campos" target="blank">
-<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40"/>
+<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" align="center"/>
 </a>
 
 ---
