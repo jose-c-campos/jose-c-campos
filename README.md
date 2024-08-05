@@ -7,7 +7,7 @@ through projects to teach myself new languages/frameworks that will help make me
 All my projects are coded from scratch, and are designed to showcase my capabilities as an independent coder and problem solver.
 I always make it a point to build a platform through which others can experience or interact with what I create.
 Creating tangible products, either through a well-designed UI or detailed documentation, is how I challenge myself to frame 
-my ideas in a way that non-programmers can appreciate and understand.
+my ideas in a way that non-programmers can appreciate and understand. Reach me at **josecarl@usc.edu**
 
 <!--
 <a href="www.linkedin.com/in/jose-c-campos"
@@ -35,24 +35,23 @@ my ideas in a way that non-programmers can appreciate and understand.
 <br />
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-c-campos&label=Profile%20views&color=0e75b6&style=flat" alt="jose-c-campos" /> </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
+
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="40" width="40" /></a>
+<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jose-c-campos" height="40" width="40" />
+<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="40" width="40" /></a>
+</a>
+</p>
 
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-c-campos&label=Profile%20views&color=0e75b6&style=flat" alt="jose-c-campos" /> </p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="30" width="40" /></a>
-<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="30" width="40" /></a>
-<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jose-c-campos" height="30" width="40" /></a>
-</p>
-
-📫 Reach me at **josecarl@usc.edu**
 
           
 <!--
