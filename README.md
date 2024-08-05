@@ -30,7 +30,7 @@ my ideas in a way that non-programmers can appreciate and understand.
 
 ---
 
-### Connect with me:
+### Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="30" width="40" /></a>
