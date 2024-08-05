@@ -7,13 +7,7 @@ through projects to teach myself new languages/frameworks that will help make me
 All my projects are coded from scratch, and are designed to showcase my capabilities as an independent coder and problem solver.
 I always make it a point to build a platform through which others can experience or interact with what I create.
 Creating tangible products, either through a well-designed UI or detailed documentation, is how I challenge myself to frame 
-my ideas in a way that non-programmers can appreciate and understand. Reach me at **josecarl@usc.edu**
-
-<!--
-<a href="www.linkedin.com/in/jose-c-campos"
-  <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
-</a>
--->
+my ideas in a way that non-programmers can appreciate and understand.
 
 ---
 
