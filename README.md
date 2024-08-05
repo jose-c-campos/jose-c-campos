@@ -38,8 +38,6 @@ my ideas in a way that non-programmers can appreciate and understand.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&locale=en&layout=compact" alt="jose-c-campos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-c-campos&show_icons=true&locale=en" alt="jose-c-campos" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&" alt="jose-c-campos" /></p>
 
 
@@ -61,6 +59,8 @@ my ideas in a way that non-programmers can appreciate and understand.
 
 Here are some ideas to get you started:
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-c-campos&show_icons=true&locale=en" alt="jose-c-campos" /></p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -70,3 +70,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
