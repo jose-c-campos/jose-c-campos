@@ -39,10 +39,15 @@ my ideas in a way that non-programmers can appreciate and understand. Reach me a
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="35" width="35" style="padding-right:10px;" /></a>
-<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jose-c-campos" height="35" width="35" style="padding-right:10px;"/>
-<a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="35" width="35" style="padding-right:10px;" /></a>
-</a>
+  <a href="https://linkedin.com/in/jose-c-campos" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="35" width="35" style="margin-right:10px;" />
+  </a>
+  <a href="https://medium.com/@jose-c-campos" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jose-c-campos" height="35" width="35" style="margin-right:10px;"/>
+  </a>
+  <a href="https://instagram.com/josecampx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="35" width="35" style="margin-right:10px;" />
+  </a>
 </p>
 
 
