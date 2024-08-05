@@ -35,7 +35,7 @@ my ideas in a way that non-programmers can appreciate and understand.
 <p align="left">
 <a href="https://linkedin.com/in/jose-c-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-c-campos" height="30" width="40" /></a>
 <a href="https://instagram.com/josecampx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josecampx" height="30" width="40" /></a>
-<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@jose-c-campos" height="30" width="40" /></a>
+<a href="https://medium.com/@jose-c-campos" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@jose-c-campos" height="40" width="40" /></a>
 </p>
 https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png
 "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg
