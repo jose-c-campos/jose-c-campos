@@ -39,7 +39,7 @@ my ideas in a way that non-programmers can appreciate and understand.
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40"/>
 </a>
 <a href="https://medium.com/@jose-c-campos" target="blank" align="left" style="padding-right:10px;">
-<img src="https://media.wired.com/photos/594453e991678d271defac07/master/w_1600%2Cc_limit/1-S9oOETtYyHkg6QJgzbzIgg.png" alt="@jose-c-campos" height="40" width="40"/>
+<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40"/>
 </a>
 
 ---
