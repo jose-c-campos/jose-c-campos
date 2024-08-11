@@ -2,12 +2,10 @@
 
 **`Student/Software Engineer`**
 
-I am a senior at USC with a passion for creating digital solutions to new and unsolved problems. I am always actively learning 
-through projects to teach myself new languages/frameworks that will help make me a better programmer.
-All my projects are coded from scratch, and are designed to showcase my capabilities as an independent coder and problem solver.
-I always make it a point to build a platform through which others can experience or interact with what I create.
-Creating tangible products, either through a well-designed UI or detailed documentation, is how I challenge myself to frame 
-my ideas in a way that non-programmers can appreciate and understand.
+I am a senior at USC with a passion for creating digital solutions to new and unsolved problems.
+With a strong foundation in C++ and Object-Oriented Programming, I am adept at tackling complex tasks and developing robust technical solutions. 
+
+I want to impact how we leverage technologies in business by driving changes that maximize output and streamline operations. I am results oriented and enjoy working in a fast paced, consumer centric environment where learning is a constant.
 
 ---
 
