@@ -3,9 +3,7 @@
 **`Student/Software Engineer`**
 
 I am a senior at USC with a passion for creating digital solutions to new and unsolved problems.
-With a strong foundation in C++ and Object-Oriented Programming, I am adept at tackling complex tasks and developing robust technical solutions. 
-
-I want to impact how we leverage technologies in business by driving changes that maximize output and streamline operations. I am results oriented and enjoy working in a fast paced, consumer centric environment where learning is a constant.
+With a strong foundation in C++ and Object-Oriented Programming, I am adept at tackling complex tasks and developing robust technical solutions. I want to impact how we leverage technologies in business by driving changes that maximize output and streamline operations. I am results oriented and enjoy working in a fast paced, consumer centric environment where learning is a constant.
 
 ---
 
