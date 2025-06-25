@@ -24,6 +24,7 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
 <img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
 <br />
+<br />
 
 ---
 
