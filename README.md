@@ -22,8 +22,8 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Firebase" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-          
-          
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jose-c-campos" /></p>
 <br />
 <br />
 
@@ -40,10 +40,6 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
 <a href="https://medium.com/@jose-c-campos" target="blank">
 <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" align="left"/>
 </a>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jose-c-campos" /></p>
-
----
 
 <!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&show_icons=true&theme=dracula" alt="jose-c-campos" /></p> -->
 
