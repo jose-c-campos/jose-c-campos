@@ -43,9 +43,6 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jose-c-campos" /></p>
 
-<br/>
-<br/>
-
 ---
 
 <!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&show_icons=true&theme=dracula" alt="jose-c-campos" /></p> -->
