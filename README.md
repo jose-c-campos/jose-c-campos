@@ -41,11 +41,13 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
 <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" align="left"/>
 </a>
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jose-c-campos" /></p>
+
 <br/>
 <br/>
 
 ---
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jose-c-campos" /></p>
+
 <!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&show_icons=true&theme=dracula" alt="jose-c-campos" /></p> -->
 
 
