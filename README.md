@@ -31,8 +31,6 @@ With a strong foundation in C++ and Object-Oriented Programming, I am adept at t
       <!-- Row 4 -->
       <img alt="Firebase"   width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
     </td>
-
-    <!-- GITHUB STATS CARD -->
     <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-c-campos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top languages" />
     </td>
