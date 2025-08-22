@@ -2,8 +2,13 @@
 
 **`Student/Software Engineer`**
 
-I am a senior at USC with a passion for creating digital solutions to new and unsolved problems.
-With a strong foundation in C++ and Object-Oriented Programming, I am adept at tackling complex tasks and developing robust technical solutions. I want to impact how we leverage technologies in business by driving changes that maximize output and streamline operations. I am results oriented and enjoy working in a fast paced, consumer centric environment where learning is a constant.
+✌️USC senior (CS + Business, Dec 2025) with a focus on backend systems, AI/ML, and cloud infrastructure.
+
+🚀 Charles Schwab: Built an enterprise-ready Generative AI assistant on GCP using RAG, NLP, LLM fine-tuning, improving developer productivity for 300+ engineers (40% faster document search, 30% faster ticket resolution).
+
+⚡ USC Scheduler: Engineered a multithreaded C++17 engine evaluating 145K schedules/sec across 10M+ combinations, deployed on AWS with Docker for secure, scalable performance.
+
+🧠 PokédexAI: Developed a computer vision deep learning model (PyTorch, ResNet-9) achieving 86% accuracy and deployed it in a full-stack React/Flask app.
 
 ---
 
