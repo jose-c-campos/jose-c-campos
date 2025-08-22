@@ -1,4 +1,4 @@
-## 👋 Jose Carlos Campos 
+## Jose Carlos Campos 
 
 **`Student/Software Engineer`**
 
