@@ -1,3 +1,4 @@
+<!-- 
 ## Jose Carlos Campos 
 
 **`Student/Software Engineer`**
@@ -13,6 +14,8 @@
 ---
 
 ### Languages and Tools
+
+
 
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -31,19 +34,8 @@
 <br />
 <br />
 
+-->
 ---
-
-### Connect with me
-
-<a href="https://linkedin.com/in/jose-c-campos" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="jose-c-campos" height="40" width="40" align="left"/>
-</a>
-<a href="https://instagram.com/josecampx" target="blank">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="josecampx" height="40" width="40" align="left"/>
-</a>
-<a href="https://medium.com/@jose-c-campos" target="blank">
-<img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" alt="@jose-c-campos" height="40" width="40" align="left"/>
-</a>
 
 
 <!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-c-campos&show_icons=true&theme=dracula" alt="jose-c-campos" /></p> -->
